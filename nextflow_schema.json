@@ -56,34 +56,7 @@
                     "hidden": true,
                     "default": false
                 }
-            },
-            "anyOf": [
-                {
-                    "required": [
-                        "sv"
-                    ]
-                },
-                {
-                    "required": [
-                        "snp"
-                    ]
-                },
-                {
-                    "required": [
-                        "cnv"
-                    ]
-                },
-                {
-                    "required": [
-                        "str"
-                    ]
-                },
-                {
-                    "required": [
-                        "mod"
-                    ]
-                }
-            ]
+            }
         }
     },
     "properties": {
