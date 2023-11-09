@@ -1,7 +1,7 @@
 {
     "$schema": "http://json-schema.org/draft-07/schema",
     "$id": "https://raw.githubusercontent.com/epi2me-labs/wf-human-variation/master/nextflow_schema.json",
-    "title": "epi2me-labs/wf-human-variation",
+    "title": "casep/using_schema",
     "description": "Basecalling, SNV calling, SV calling, modified base calling of human samples.",
     "demo_url": "https://ont-exd-int-s3-euwst1-epi2me-labs.s3.amazonaws.com/wf-human-variation/wf-human-variation-demo.tar.gz",
     "aws_demo_url": "https://ont-exd-int-s3-euwst1-epi2me-labs.s3.amazonaws.com/wf-human-variation/wf-human-variation-demo/aws.nextflow.config",
