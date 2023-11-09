@@ -86,11 +86,6 @@
             ]
         }
     },
-    "allOf": [
-        {
-            "$ref": "#/definitions/workflow"
-        }
-    ],
     "properties": {
         "aws_image_prefix": {
             "type": "string",
